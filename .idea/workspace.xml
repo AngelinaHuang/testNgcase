@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edf9e503-4933-49f7-a12b-76d9875a4434" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1k5Qog2GlGfg5NqnWcE2WRznKSi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestNGDemo_7_1_Allure2">
+    <configuration name="TestNGDemo_1_1_Base" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGcase" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGDemo_1_1_Base" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGDemo_7_1_Allure2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGcase" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGDemo_7_1_Allure2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestNGDemo_7_1_Allure2" />
+        <item itemvalue="TestNG.TestNGDemo_1_1_Base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edf9e503-4933-49f7-a12b-76d9875a4434" name="Default Changelist" comment="" />
+      <created>1604988148335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604988148335</updated>
+      <workItem from="1604988151782" duration="1438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="242" key="#Project_Structure" timestamp="1604988802209">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="242" key="#Project_Structure/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1604988802209" />
+    <state x="664" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604988572950">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="664" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1604988572950" />
+    <state width="1860" height="321" key="GridCell.Tab.0.bottom" timestamp="1604989589993">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1604989589993" />
+    <state width="1860" height="321" key="GridCell.Tab.0.center" timestamp="1604989589993">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1604989589993" />
+    <state width="1860" height="321" key="GridCell.Tab.0.left" timestamp="1604989589993">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1604989589993" />
+    <state width="1860" height="321" key="GridCell.Tab.0.right" timestamp="1604989589993">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1604989589993" />
+  </component>
+</project>
